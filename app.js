@@ -5510,7 +5510,7 @@ document.write(
   '<script src="//rawcdn.githack.com/asiatismo/goindex/218f7e4ca72dc96d604f9604446283baf7ab1d33/js/flv.min.js"></script>'
 );
 document.write(
-  '<script src="//rawcdn.githack.com/asiatismo/goindex/218f7e4ca72dc96d604f9604446283baf7ab1d33/js/DPlayer.min.js"></script>'
+  '<script src="//rawcdn.githack.com/asiatismo/goindex/f4b3ad6d726823e50637c778c82f520533baec51/js/DPlayer.min.js"></script>'
 );
 document.write(
   '<script src="//cdn.jsdelivr.net/npm/marked@14.0.0/marked.min.js"></script>'
